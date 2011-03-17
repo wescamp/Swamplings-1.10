@@ -1867,7 +1867,7 @@ msgstr ""
 #: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:486
 msgid ""
 "Judging by your complete lack of speech or movement, coupled by the fact "
-"that you smell strongly of sawdust, I deduce that fur_ITther conversation with "
+"that you smell strongly of sawdust, I deduce that further conversation with "
 "you is pointless. Good night."
 msgstr ""
 
@@ -5183,7 +5183,7 @@ msgstr ""
 
 #. [message]: speaker=Child_Skandix
 #: Swamplings/scenarios/14_Dire_Cave.cfg:282
-msgid "Just a little fur_ITther ... I want to show you something."
+msgid "Just a little further ... I want to show you something."
 msgstr ""
 
 #. [message]: speaker=Kleezyx
