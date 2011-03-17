@@ -578,7 +578,7 @@ msgid "Oh! I didn’t see you, Misris."
 msgstr ""
 
 #. [event]: id=Clammie x clammie_x}, id=Clammie y clammie_y}, id=Misris
-#. [unit]: id=Misris, type=Goblin Moonb_NOeam
+#. [unit]: id=Misris, type=Goblin Moonbeam
 #. [else]: id=Misris
 #. [side]: id=Misris, type=Wolf Rider Sw
 #: Swamplings/scenarios/01_Shining.cfg:570
@@ -1911,7 +1911,7 @@ msgstr ""
 
 #. [message]: speaker=Clammie_assassin
 #: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:562
-msgid "Not so! Shining had that other guy snuffed too! Lord Prawnb_NOall."
+msgid "Not so! Shining had that other guy snuffed too! Lord Prawnball."
 msgstr ""
 
 #. [message]: speaker=Kennison
@@ -4107,7 +4107,7 @@ msgstr ""
 #. [message]: speaker=narrator
 #: Swamplings/scenarios/11_Thunderstruck.cfg:595
 msgid ""
-"Any spearman, rouser, moonb_NOeam or impaler that goes to the dwarves' wagon "
+"Any spearman, rouser, moonbeam or impaler that goes to the dwarves' wagon "
 "becomes a thundergobo! Warning: Thundergobos have no training and can easily "
 "injure or kill the wrong target!"
 msgstr ""
@@ -7921,26 +7921,26 @@ msgid ""
 "learned to mimic the augur's heal spell as well as the chilling curse."
 msgstr ""
 
-#. [unit_type]: id=Goblin Moonb_NOeam, race=goblin
-#: Swamplings/units/Moonb_NOeam.cfg:5
-msgid "Goblin Moonb_NOeam"
+#. [unit_type]: id=Goblin Moonbeam, race=goblin
+#: Swamplings/units/Moonbeam.cfg:5
+msgid "Goblin Moonbeam"
 msgstr ""
 
-#. [unit_type]: id=Goblin Moonb_NOeam, race=goblin
-#: Swamplings/units/Moonb_NOeam.cfg:21
+#. [unit_type]: id=Goblin Moonbeam, race=goblin
+#: Swamplings/units/Moonbeam.cfg:21
 msgid ""
-"A primitive life has some advantages, and a Goblin Moonb_NOeam capitalizes on "
-"this fact. Using their special affinity with the natural world, the Moonb_NOeam "
+"A primitive life has some advantages, and a Goblin Moonbeam capitalizes on "
+"this fact. Using their special affinity with the natural world, the Moonbeam "
 "advances undetected at night and strikes without warning."
 msgstr ""
 
 #. [attack]: type=impact
-#: Swamplings/units/Nocturne.cfg:50 Swamplings/units/Moonb_NOeam.cfg:46
+#: Swamplings/units/Nocturne.cfg:50 Swamplings/units/Moonbeam.cfg:46
 msgid "club"
 msgstr ""
 
 #. [attack]: type=blade
-#: Swamplings/units/Moonb_NOeam.cfg:55
+#: Swamplings/units/Moonbeam.cfg:55
 msgid "hatchet"
 msgstr ""
 
@@ -7960,7 +7960,7 @@ msgstr ""
 #. [unit_type]: id=Goblin Nocturne, race=goblin
 #: Swamplings/units/Nocturne.cfg:25
 msgid ""
-"The Goblin Nocturne has advanced beyond the skills of the Moonb_NOeam. It is "
+"The Goblin Nocturne has advanced beyond the skills of the Moonbeam. It is "
 "not known why so many of the Nocturnes are female. Perhaps they have a "
 "lighter step than the male, but whatever the cause, their mastery of "
 "nightstalking is unparalleled."
