@@ -1,4 +1,22 @@
-Version 1.1.5n - 12/2/10
+Version 1.1.6n - 5/12/11
+- New art: added GangrN's Eeep and wolf portraits.
+- S1: Fixed some unit facings during dialogs.
+- S5: There are now 20 turns to find the Archduke. The first round of the Archduke's army will not have the quick trait. Initial dialog at trapdoor will be triggered if Kennison goes to the spot. In hard games, guards inside the secret passage are now set to ai guardian. Fixed a bug which sometimes put these guards into easy or regular difficulty games. Fixed bug that occurred if Clammie reaches the rope before Kennsion.
+- S12: Increased Sgt Mugwyn's hitpoints to 50.
+- S14: Some additional dialog regarding Ronry's robe. Some changes to the Limit Contemporaneous Recruit parameters for Kleezyk's army. Minor changes to some water tiles.
+- S16: Recruited swamp wolves now receive orcish names.
+- S1,S3,S6,S11,S13,S15,S16: wolf battle macros.
+- Gave Nocturne an additional 5-3 hatchet attack.
+- Fixed Sergeant small portrait, since it no longer exists in core.
+- Renamed giant rat to avoid conflict with mainline giant rat.
+- Updated Pillager, Cutthroat & Firefly defense/attack animations.
+- Added [filter_side] tags all over the place.
+- Removed deprecated macros AMLA_TOUGH, ITM_GLOWING_BRAZIER, and RECALL_OR_CREATE_UNIT.
+- Since the [unpetrify] tags in 1.9.3 no longer accept the filter tag as they did in 1.9.2, I removed all [unpetrify] tags and am using the old workaround method. It was either that, or tell players to update their copy of Wesnoth after they noticed a problem, which is not my idea of tech support.
+- Shortened some unnecessarily long binary paths in scenario and unit files.
+- ran wmllint & wmlscope.
+
+Version 1.1.5n - 12/3/10
 - S2: Changed the method of counting bats to ensure against an intermittent bug. Bats get full heal, attacks and movements restored before flying into the bat box.
 - S14: A black exclamation point appears when one of your units gets petrified.
 - S16: Finally changed the line "He's got all Wesnoth allied against us!" to "He's got all the continent allied against us!"
