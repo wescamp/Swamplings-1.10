@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: wescamp-i 18n\n"
+"Project-Id-Version: Swamplings-1.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-09-05 21:19-0400\n"
 "PO-Revision-Date: 2011-02-21 15:36+0100\n"
